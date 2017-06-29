@@ -1,0 +1,8 @@
+{
+  "name": "electron-fs-extra",
+  "version": "1.0.0",
+  "main": "electron-fs-extra.js",
+  "repository": "https://github.com/builden/electron-fs-extra.git",
+  "author": "builden <billdeng@qq.com>",
+  "license": "MIT"
+}
